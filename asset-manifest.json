@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/RZFalcore/goit-react-hw-02-bank-account/static/js/main.8afb697f.chunk.js",
-    "main.js.map": "/RZFalcore/goit-react-hw-02-bank-account/static/js/main.8afb697f.chunk.js.map",
-    "runtime~main.js": "/RZFalcore/goit-react-hw-02-bank-account/static/js/runtime~main.e6c6abab.js",
-    "runtime~main.js.map": "/RZFalcore/goit-react-hw-02-bank-account/static/js/runtime~main.e6c6abab.js.map",
-    "static/js/2.65aa1cca.chunk.js": "/RZFalcore/goit-react-hw-02-bank-account/static/js/2.65aa1cca.chunk.js",
-    "static/js/2.65aa1cca.chunk.js.map": "/RZFalcore/goit-react-hw-02-bank-account/static/js/2.65aa1cca.chunk.js.map",
-    "index.html": "/RZFalcore/goit-react-hw-02-bank-account/index.html",
-    "precache-manifest.43147e507bbb0da2976b075439b2a0b3.js": "/RZFalcore/goit-react-hw-02-bank-account/precache-manifest.43147e507bbb0da2976b075439b2a0b3.js",
-    "service-worker.js": "/RZFalcore/goit-react-hw-02-bank-account/service-worker.js"
+    "main.js": "/goit-react-hw-02-bank-account/static/js/main.8afb697f.chunk.js",
+    "main.js.map": "/goit-react-hw-02-bank-account/static/js/main.8afb697f.chunk.js.map",
+    "runtime~main.js": "/goit-react-hw-02-bank-account/static/js/runtime~main.0f0e45e8.js",
+    "runtime~main.js.map": "/goit-react-hw-02-bank-account/static/js/runtime~main.0f0e45e8.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/goit-react-hw-02-bank-account/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/goit-react-hw-02-bank-account/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/goit-react-hw-02-bank-account/index.html",
+    "precache-manifest.e4bade3896616330c517feaf2d8a85cf.js": "/goit-react-hw-02-bank-account/precache-manifest.e4bade3896616330c517feaf2d8a85cf.js",
+    "service-worker.js": "/goit-react-hw-02-bank-account/service-worker.js"
   }
 }
