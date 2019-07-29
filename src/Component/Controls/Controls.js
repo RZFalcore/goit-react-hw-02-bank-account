@@ -28,11 +28,17 @@ export default class Controls extends Component {
       this.state.amount > this.props.balance
     ) {
       this.notify('На счету недостаточно средств для проведения операции!');
+      this.setState({
+        amount: '',
+      });
       return;
     }
 
     if (this.state.amount === 0 || this.state.amount === '') {
       this.notify('Введите сумму для проведения операции!');
+      this.setState({
+        amount: '',
+      });
       return;
     }
 
